@@ -1,0 +1,13 @@
+.NumberAdjustContainer{
+    width:70px;
+    height:50px;
+    background-color: lightgray;
+    border-radius:2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.arrowWrapper{
+    display: flex;
+    flex-direction: column;
+}

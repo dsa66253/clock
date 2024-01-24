@@ -1,0 +1,10 @@
+.ShowDateWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border:solid 2px;
+    border-radius: 100%;
+    border-style: dashed;
+    margin: auto;
+}
