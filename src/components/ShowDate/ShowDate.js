@@ -19,7 +19,7 @@ const ShowDate = ({size}) => {
         <span></span>
       </div>
       <div>
-        <span style={{fontSize:32}}>{time.getMonth()}+1</span>
+        <span style={{fontSize:32}}>{time.getMonth()+1}</span>
         <span>月</span>
       </div>
       <div>
